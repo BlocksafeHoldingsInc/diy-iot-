@@ -46,7 +46,7 @@ Create a linux user
 Clone the repository to get started ...
 
 ```
-sudo git clone https://github.com/pagarba/iot-flux.git
+sudo git clone https://github.com/BlocksafeHoldingsInc/streamiot-diy.git
 ```
 
 Enter the subdirectory ...
