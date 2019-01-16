@@ -51,7 +51,7 @@ sudo git clone https://github.com/BlocksafeHoldingsInc/streamiot-diy.git
 
 Enter the subdirectory ...
 ```
- cd iot-flux
+ cd streamiot-diy
  ```
  
 
